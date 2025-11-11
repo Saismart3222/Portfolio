@@ -13,9 +13,6 @@ section, div, .container, .row {
   max-width: 100%;
   overflow-x: hidden;
 }
-[data-aos] {
-  overflow-x: hidden;
-}
   .navbar-brand,
   .nav-link {
     color: white !important;
@@ -439,4 +436,5 @@ html, body {
   width: 100%;
 }
   
+
 
